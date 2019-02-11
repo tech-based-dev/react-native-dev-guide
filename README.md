@@ -57,10 +57,14 @@ Terminal adalah sebuah aplikasi yang dapat digunakan untuk berinteraksi dengan b
 Homebrew adalah sebuah aplikasi yang berjalan di atas terminal dan digunakan untuk mengelola aplikasi, biasanya aplikasi-aplikasi yang diperlukan dalam pengembangan software. Untuk lebih jelas mengenai homebrew, informasinya dapat dilihat di https://brew.sh. Kamu bisa mengikuti langkah-per-langkah yang ada di website tersebut dan mengeksplorasi kemungkinan-kemnungkinannya. Sebagai gambaran sederhana, berikut ini cuplikan yang diperlukan dan relevan dalam dokumen ini.
 
 Ketikkan perintah ini melalui terminal untuk menginstall homebrew
-```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 Ketika sudah selesai, pastikan homebrew terinstall dengan mengetik perintah berikut ini:
-```brew -v```
+```
+brew -v
+```
 
 Keluaran dari perintah itu mirip seperti keluaran di bawah ini, yang artinya brew sudah berhasil diinstal dengan baik:
 ```
@@ -72,21 +76,31 @@ Homebrew/homebrew-cask (git revision 3dd068; last commit 2019-02-06)
 
 #### Instalasi Node JS & Node Package Manager (NPM)
 Aplikasi berikutnya yang harus diinstall adalah Node JS. Aplikasi ini dapat diinstall melalui Homebrew yang telah diinstall pada bagian sebelumnya. Instalasi dapat dilakukan dengan mengetikkan perintah berikut ini:
-```brew install node```
+```
+brew install node
+```
 
 Pastikan node JS sudah terpasang dengan mencari tahu versi yang terpasang
-```node -v```
+```
+node -v
+```
 
 Begitu pula pastikan NPM sudah terpasang dengan mencari tahu versinya.
-```npm -v```
+```
+npm -v
+```
 
 #### Instalasi Watchman
 Berikutnya, install watchman yang dibutuhkan untuk memonitor aplikasi react native secara real-time.
-```brew install watchman```
+```
+brew install watchman
+```
 
 #### Instalasi React Native CLI
 Bagian paling penting dalam instalasi ini adalah pemasangan React Native, yang dapat diinstall dengan mengetikkan perintah berikut ini:
-```npm install -g react-native-cli```
+```
+npm install -g react-native-cli
+```
 
 Apabila react native sudah terpasang, cek versi yang terinstall dengan mengetikkan perintah berikut ini:
 ```

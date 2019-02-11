@@ -104,6 +104,10 @@ npm install -g react-native-cli
 
 Apabila react native sudah terpasang, cek versi yang terinstall dengan mengetikkan perintah berikut ini:
 ```
+react-native -v
+```
+yang menghasilkan keluaran seperti ini:
+```
 ⇒  react-native -v
 react-native-cli: 1.3.0
 react-native: 0.57.8

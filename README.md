@@ -24,7 +24,7 @@ Bagian ini menjelaskan apa saja yang harus disiapkan untuk membuat sebuah aplika
 
 ## Hardware
 
-Pastikan kamu memiliki hardware minimum sebagai berikut:
+Pastikan kamu memiliki hardware dengan spesifikasi minimum sebagai berikut:
 
 * Laptop (RAM >= 2GB, Storage >= 4GB)
 * Smartphone Android
@@ -36,7 +36,7 @@ Setup environment sangat bergantung pada sistem operasi yang digunakan pada masi
 
 ### Android
 
-Android Lolipop +
+Android Lolipop (atau lebih baru) dengan Developer Options
 
 ### Windows
 
@@ -46,15 +46,15 @@ Android Lolipop +
 Editor teks merupakan alat utama dalam membuat sebuah aplikasi, baik mobile, web, maupun desktop. Setiap orang memiliki preferensinya masing-masing dalam memilih editor teks ini. Berikut ini pilihan yang bisa dieksplorasi apabila kamu tertarik untuk eksplorasi lebih jauh. Editor teks yang direkomendasikan oleh kami dicetak lebih tebal dibanding yang lainnya.
 
 Basic:
-**Sublime Text**
-Visual Studio Code
+* [**Sublime Text**](https://www.sublimetext.com)
+* [Visual Studio Code](https://code.visualstudio.com)
 
 Intermediate:
-WebStorm
+* [WebStorm](https://www.jetbrains.com/webstorm/)
 
 Advance:
-Vim
-Emacs
+* [Vim](https://www.vim.org)
+* [Emacs](https://www.gnu.org/software/emacs/)
 
 #### Persiapan Terminal
 #### Instalasi Homebrew

@@ -53,18 +53,21 @@ Terminal adalah sebuah aplikasi yang dapat digunakan untuk berinteraksi dengan b
 
 #### MacOS
 MacOS sebenarnya telah memiliki aplikasi terminal default out-of-the-box bernama "Terminal". Aplikasi ini bisa diakses dengan membuka direktori Application, kemudian cari aplikasi bernama "Terminal". Alternatif lainnya adalah dengan menggunakan aplikasi lain yang memiliki fungsi lebih banyak bernama [iTerm2](https://www.iterm2.com). 
+
 ![alt text][iterm2]
 
 #### Linux
 Lnux telah memiliki aplikasi terminal default out-of-the-box bernama "Terminal". Aplikasi ini bisa ditemukan dengan mencari aplikasi dengan keyword "terminal".
+
 ![alt text][ubuntuterminal]
 
 #### Windows
 Terminal pada windows dikenal dengan nama command prompt atau cmd. Command prompt bisa diakses dengan beberapa cara. Cara yang pertama adalah dengan mencari aplikasi dengan keyword "command prompt". Cara yang kedua adalah dengan menekan tombl window + r yang memunculkan dialog "run", kemudian tuliskan "cmd" (tanpa tanda kutip), kemudian tekan enter.
+
 ![alt text][cmd]
 
 ### Instalasi Node JS & Node Package Manager (NPM)
-![alt text](https://nodejs.org/static/images/logo.svg "Node JS")
+![alt text](https://dev.acquia.com/sites/default/files/styles/blog_node_image/public/blog/nodejs-new-pantone-black2.png "Node JS")
 
 #### MacOS
 
@@ -164,8 +167,6 @@ Expo adalah sebuah aplikasi yang terdapat di dalam komputer dan smartphone kamu 
 ```
 npm install -g expo-cli
 ```
-
-# Hands-on Overview
 
 [tllogo]: https://i.imgur.com/hLjs5wq.png "techlab Logo"
 [iterm2]: https://i.imgur.com/75NUPpT.png "iterm2"
